@@ -1,0 +1,5 @@
+set_dependency_paths.sh
+run_CMAES_gpu
+run_CMAES_cpu
+example/input/SC
+*.ipynb_checkpoints*
